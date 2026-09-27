@@ -1,7 +1,8 @@
 # Vera Bot — magicpin AI Challenge
 
 **Author:** Jatin Maggo · jatinmaggo28@gmail.com
-**Live URL:** https://YOUR-URL.onrender.com
+
+**Live URL:** https://magicpin-vera-bot-m3nv.onrender.com
 **Model:** openai/gpt-oss-120b via Groq (backup: qwen/qwen3.8-27b), temperature 0
 
 ## Approach
