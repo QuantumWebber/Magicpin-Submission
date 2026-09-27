@@ -21,13 +21,13 @@ Author: magicpin AI Challenge Team
 # =============================================================================
 
 # Your bot's URL (where your bot is running)
-BOT_URL = "http://localhost:8080"
+BOT_URL = "https://magicpin-vera-bot-m3nv.onrender.com"
 
 # Choose your LLM provider: "openai", "anthropic", "gemini", "deepseek", "groq", "ollama", "openrouter"
 LLM_PROVIDER = "groq"
 
 # Your API key (paste your key here)
-LLM_API_KEY = " "  # <-- PUT YOUR API KEY HERE
+LLM_API_KEY=""
 
 # Model to use (leave empty for default, or specify like "gpt-4o", "claude-3-5-sonnet-20241022", etc.)
 LLM_MODEL = "openai/gpt-oss-120b"  # <-- Optional: specify model or leave empty for default
